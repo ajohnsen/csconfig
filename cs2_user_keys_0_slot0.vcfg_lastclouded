@@ -1,0 +1,19 @@
+"config"
+{
+	"bindings"
+	{
+		"SPACE"		"+jump"
+		"MWHEELDOWN"		"+jump"
+		"MOUSE4"		"player_ping"
+		"CAPSLOCK"		"+voicerecord"
+		"`"		"toggleconsole"
+		"VERTICAL_BAR"		"toggleconsole"
+		"MWHEELUP"		"r_cleardecals"
+		"i"		"<unbound>"
+		"ALT"		"+boing; +ding; +dong"
+		"MOUSE3"		"<unbound>"
+		"k"		"noclip"
+		"MOUSE1"		"+attack"
+		"MOUSE5"		"toggleradarscale"
+	}
+}

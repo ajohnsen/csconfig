@@ -1,0 +1,13 @@
+"config"
+{
+	"bindings"
+	{
+		"SPACE"		"+jump"
+		"MWHEELDOWN"		"+jump"
+		"MOUSE4"		"<unbound>"
+		"CAPSLOCK"		"+voicerecord"
+		"`"		"<unbound>"
+		"VERTICAL_BAR"		"toggleconsole"
+		"MWHEELUP"		"r_cleardecals"
+	}
+}
